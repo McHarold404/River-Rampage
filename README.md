@@ -1,3 +1,6 @@
+###
+To Run : python3 main.py
+###
 A classic river crossing competetion played by two players.
 Player1 Controls :Arrow Keys
 Player2 Controls:W,A,S,D
